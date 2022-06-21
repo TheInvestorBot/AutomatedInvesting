@@ -12,8 +12,8 @@ import logging
 import argparse
 
 
-Alpaca_api_key = "PKFITJI26OPBMBFSP03R"
-Alpaca_api_secret = "PssfWYlMgT7GwraCvB4dcnKqgk0amWuHqGnHZ3Br"
+Alpaca_api_key = ""
+Alpaca_api_secret = ""
 Alpaca_trade_url = "https://paper-api.alpaca.markets" # Needs to be changed to non-paper for real trading
 #endregion
 
