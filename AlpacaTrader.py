@@ -18,8 +18,8 @@ import argparse
 
 # API KEYS
 #region
-Alpaca_api_key = "PKPMDT7MUODYJCW39BWY"
-Alpaca_api_secret = "Bu1Z8FpUk/ep/Fdc7azJYhWJZahc6FC3nZgwHERs"
+Alpaca_api_key = ""
+Alpaca_api_secret = ""
 Alpaca_trade_url = "https://paper-api.alpaca.markets"
 Alpaca_data_url = "https://data.alpaca.markets/v1"
 #endregion
